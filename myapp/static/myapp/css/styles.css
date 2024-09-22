@@ -1,0 +1,9 @@
+/* myapp/static/myapp/css/styles.css */
+body {
+    background-color: black
+}
+
+h1 {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
