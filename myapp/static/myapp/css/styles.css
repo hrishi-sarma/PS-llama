@@ -1,5 +1,6 @@
 body {
     background-color: black
+    
 }
 
 h1 {
@@ -17,10 +18,9 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Full height */
+    height: 100vh; 
     padding: 20px;
-    background-color: grey;
-    
+    background-color: grey;   
 }
 
 
@@ -146,4 +146,14 @@ h1 {
     align-items: center;
     text-align: center;
     display:block
+}
+
+.navbar {
+  background-color: #151717;
+  color: white;
+}
+
+.home {
+  background-color: black;
+  color: white;
 }
